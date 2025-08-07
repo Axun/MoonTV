@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php/api.php/provide/vod",
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
       "name": "福利吧",
       "detail": "https://fuliba.net"
     },
